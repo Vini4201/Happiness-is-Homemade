@@ -27,6 +27,7 @@ stressful jobs, avoid travelling and at the same time earn some income.
 A list of technologies used within the project:
 * Frontend: In the frontend we have used HTML, CSS and JavaScript for designing our webpage to make it more user-friendly and easier to use.
 * Visual Studio Code: Visual Studio Code, also commonly referred to as VS Code, is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. VS Code is used to write and run the website. The version used is 1.66 
+* Backend: For the backend part i.e., the databases of admin panel and reviews section we use PHP and MySQL. PHP (Hypertext Preprocessor) is known as a general-purpose scripting language that can be used to develop dynamic and interactive websites. 
 * Server: XAMPP is used for compilation, execution and rendering of the web page. 
  
 ## Steps to Run the Website
